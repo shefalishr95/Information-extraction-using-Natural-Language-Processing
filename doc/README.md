@@ -1,4 +1,5 @@
 # ADS Project 1: What made you happy today?
-### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+This folder has two files with base code for:
+1. Text processing and extracting relevant information
+2. Visualizing actions based on demographic characteristics of respondents
