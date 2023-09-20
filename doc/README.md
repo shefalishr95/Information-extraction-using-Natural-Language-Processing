@@ -1,4 +1,4 @@
-# ADS Project 1: What made you happy today?
+# doc folder
 
 This folder has two files with code for:
 1. 'Text_processing_and_info_extraction': This is a Jupyter notebook (IDE: Google Collab) that processes the data, visualizes sample dependencies and extracts correct verbs/actions.

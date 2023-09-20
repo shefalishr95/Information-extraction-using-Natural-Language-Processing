@@ -1,4 +1,4 @@
-# Data folder
+# data folder
 
 The data directory contains the analyzed data. This output is obtained after execution of [Text_processing_and_info_extraction](doc/Text_processing_and_info_extraction.ipynb) file. The data contains extracted 'action phrases', their unique identifier and other relevant characteristics (such as demographic data,reflection period etc.). The variables are:
 

@@ -1,4 +1,3 @@
-# ADS Project 1: What made you happy today?
-### Figs folder
+# figs folder
 
-The figs directory contains the figures. This directory only contains generated files; that is, one should always be able to delete the contents and regenerate them.
+The figs directory contains the figures from the [Exploratory_data_analysis_of_actions](doc/Exploratory_data_analysis_of_actions.ipynb) script.
