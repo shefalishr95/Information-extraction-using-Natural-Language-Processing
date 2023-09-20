@@ -1,5 +1,4 @@
 # What made you happy? An analysis of common actions linked to happy moments 
-### *A preliminary review of actions/verbs that behind happy moments*
 ### This project was completed as a part of the Applied Data Science course @ Columbia University.
 
 
