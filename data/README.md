@@ -4,7 +4,7 @@ The data directory contains the analyzed data. This output is obtained after exe
 
 - **hmid (int)**: Happy moment ID
 - **Root_Object_Phrase or action_phrase (str)**: The action performed by an individual (phrases); extracted from the text using dependency matching.
-- **Sentence (str)**: Setences from responses (single hmid may have multiple sentences).
+- **Sentence (str)**: Sentences from responses (single hmid may have multiple sentences).
 - **cleaned_hm (str)**: Cleaned happy moment
 - **Starts with I or Verb (str)**: Binary variable depicting whether the sentence linked to the action phrase starts with 'I' or a verb (to identify moments which were user-led i.e., "I ran" or "Got a job").
 - **wid (int)**: Worker ID
