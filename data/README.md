@@ -1,6 +1,6 @@
 # data folder
 
-The data directory contains the analyzed data. This output is obtained after execution of [Text_processing_and_info_extraction](doc/Text_processing_and_info_extraction.ipynb) file. The data contains extracted 'action phrases', their unique identifier and other relevant characteristics (such as demographic data,reflection period etc.). The variables are:
+The data directory contains the analyzed data. This output is obtained after execution of [Text_processing_and_info_extraction](https://github.com/TZstatsADS/ads-fall2023-project1-shefalishr95/blob/master/doc/Text_processing_and_info_extraction.ipynb) file. The data contains extracted 'action phrases', their unique identifier and other relevant characteristics (such as demographic data,reflection period etc.). The variables are:
 
 - **hmid (int)**: Happy moment ID
 - **Root_Object_Phrase or action_phrase (str)**: The action performed by an individual (phrases); extracted from the text using dependency matching.
