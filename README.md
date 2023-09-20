@@ -54,8 +54,7 @@ proj/
 │    ├── word_cloud_24h_reflection.png
 │    ├── word_cloud_3months_reflection.png
 │    ├── word_cloud_all.png
-│    ├── word_cloud_female.png
-│    ├── word_cloud_male.png
+│____├── word_cloud_female.png
 ```
 
 Please see each subfolder for a README file.
