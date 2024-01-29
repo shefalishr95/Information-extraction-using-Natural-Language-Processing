@@ -1,5 +1,4 @@
 # What made you happy? An analysis of common actions linked to happy moments 
-### This project was completed individually as a part of the Applied Data Science course @ Columbia University.
 
 
 > *"Happiness is not something ready-made. It comes from your own actions"* - Dalai Lama
