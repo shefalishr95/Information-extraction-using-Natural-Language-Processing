@@ -1,5 +1,4 @@
-# What made you happy? An analysis of common actions linked to happy moments 
-
+# What makes us happy? NLP-Driven Analysis of Happiness Triggers in Large-Scale Text Data
 
 > *"Happiness is not something ready-made. It comes from your own actions"* - Dalai Lama
 
